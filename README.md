@@ -1,6 +1,6 @@
 # All Restaurants in Davie, Florida, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `118074` |
 | Location | Davie |
 | Category | Restaurants |
-| Full dataset size | 35 records |
-| Free sample size | 3 records (8.57%) |
-| Last export | 2026-04-23T11:59:26.669143+00:00 |
+| Full dataset size | 70 records |
+| Free sample size | 7 records (10.0%) |
+| Last export | 2026-04-30T22:07:43.115000+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-davie-florida-us-sample-118074/releases/download/sample-latest/beamstation_118074_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
