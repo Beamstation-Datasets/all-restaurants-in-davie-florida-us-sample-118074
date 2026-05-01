@@ -1,12 +1,12 @@
 {
-  "export_job_id": "130e17dc-e45c-4215-855b-7625c4aad1ff",
+  "export_job_id": "ef7a30f7-2869-43da-892a-ab09be09cf38",
   "id_short": 118074,
-  "published_at": "2026-04-23T19:08:46Z",
+  "published_at": "2026-05-01T07:03:34Z",
   "repo_name": "all-restaurants-in-davie-florida-us-sample-118074",
   "sample_asset_name": "beamstation_118074_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/118074/beamstation_118074_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 3,
-  "sample_sha256": "b72ca8971b92c41513c42ad124ad5e0f2631483b554e1a186f1172330a08d48a",
-  "sample_size_bytes": 24897,
-  "total_records": 35
+  "sample_records": 7,
+  "sample_sha256": "87902a7e1cb0f7275b6d2beecd4b826a0042db140a496447f24d8da1d28cb7f3",
+  "sample_size_bytes": 38148,
+  "total_records": 70
 }
